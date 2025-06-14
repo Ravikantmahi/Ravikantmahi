@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Ravi Kant</h1>
-<h3 align="center">🚀 Project Assistant | Big Data & Data Science | MERN Stack Developer</h3>
+<h3 align="center">🚀 Software Developer | Big Data & Data Science | MERN Stack Developer</h3>
 
 <p align="center">
   <a href="https://ravikantportfolio.vercel.app" target="_blank">
