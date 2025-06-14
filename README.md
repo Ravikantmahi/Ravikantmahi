@@ -17,6 +17,11 @@
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
+<!-- Profile Views Counter (center Aligned) -->
+<p align="center">
+    <img src="https://komarev.com/ghpvc/?username=Ravikantmahi&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views Counter" />
+</p>
+
 
 ---
 
